@@ -1,8 +1,6 @@
 .DS_Store
 node_modules
 /dist
-autoadd.js
-diff.js
 
 # local env files
 .env.local
