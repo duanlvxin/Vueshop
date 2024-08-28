@@ -1,13 +1,15 @@
 <template>
-    <div></div>
+    <div>
+        你好！
+    </div>
 </template>
 
 <script>
     export default {
-        name: "skip"
+        
     }
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
 
 </style>
